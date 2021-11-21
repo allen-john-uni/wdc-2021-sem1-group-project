@@ -51,7 +51,3 @@ Security implemented:
 - Session storage in database
 - Sanitize inputs using `sanitize-html`
 - Middleware located in the `routes` folder and also the parent functions imported from `auth.js`.# wdc-2021-sem1-group-project
-# wdc-2021-sem1-group-project
-# wdc-2021-sem1-group-project
-# wdc-2021-sem1-group-project
-# wdc-2021-sem1-group-project
